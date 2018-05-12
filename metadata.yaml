@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/542
     wikipedia: http://en.wikipedia.org/wiki/Sara_Jeannette_Duncan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14490#A-Daughter-of-To-Day
 gutenberg_issued: '2004-12-28'
 gutenberg_type: Text
 identifiers:
